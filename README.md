@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @EleekaN
-- 👀 I’m interested in working on API documentation. 
-- 🌱 I’m trained in fundamentals of API and have good knowledge of python codes. I have passion to learn and explore new opportunities 
-- 💞️ I’m looking to collaborate on any Rest API documentation projects.
+### Eleeka Nongthombam
+Certified in Technical Writing with DITA XML. Passionate to work on new tools and technology, understand the concept and simplify the content for easy consumption for end users.
+Good working knowledge on API documentation. 
 - 📫 Please feel free to drop me an email --eleeka.nongthombam@gmail.com
 
 <!---
